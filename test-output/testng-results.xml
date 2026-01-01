@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-18T00:11:21 IST" name="DataDrivenSuite" finished-at="2025-12-18T00:12:35 IST" duration-ms="73787">
+    <groups>
+    </groups>
+    <test started-at="2025-12-18T00:11:21 IST" name="Test" finished-at="2025-12-18T00:12:35 IST" duration-ms="73787">
+      <class name="tests.Register2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:11:51 IST" name="setup" finished-at="2025-12-18T00:11:54 IST" duration-ms="2368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegistrationFunctionalityWithOnlyMandatoryFields()[pri:1, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:11:54 IST" name="verifyRegistrationFunctionalityWithOnlyMandatoryFields" finished-at="2025-12-18T00:12:01 IST" duration-ms="7345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationFunctionalityWithOnlyMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:12:01 IST" name="tearDown" finished-at="2025-12-18T00:12:01 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:12:01 IST" name="setup" finished-at="2025-12-18T00:12:04 IST" duration-ms="2812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegistrationFunctionalityWithAllFunctionality()[pri:2, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:12:04 IST" name="verifyRegistrationFunctionalityWithAllFunctionality" finished-at="2025-12-18T00:12:06 IST" duration-ms="2664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationFunctionalityWithAllFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:12:07 IST" name="tearDown" finished-at="2025-12-18T00:12:07 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:12:07 IST" name="setup" finished-at="2025-12-18T00:12:09 IST" duration-ms="2342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="averifyRegistrationFunctionalityWithNoNewsletter()[pri:3, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:12:09 IST" name="averifyRegistrationFunctionalityWithNoNewsletter" finished-at="2025-12-18T00:12:12 IST" duration-ms="2522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- averifyRegistrationFunctionalityWithNoNewsletter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Register2@5bda8e08]" started-at="2025-12-18T00:12:12 IST" name="tearDown" finished-at="2025-12-18T00:12:12 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Register2 -->
+      <class name="tests.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:32 IST" name="setup" finished-at="2025-12-18T00:11:34 IST" duration-ms="2557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCredentials()[pri:1, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:34 IST" name="loginWithValidCredentials" finished-at="2025-12-18T00:11:36 IST" duration-ms="1566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:36 IST" name="tearDown" finished-at="2025-12-18T00:11:36 IST" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:36 IST" name="setup" finished-at="2025-12-18T00:11:38 IST" duration-ms="2326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidCredentials()[pri:2, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:38 IST" name="loginWithInvalidCredentials" finished-at="2025-12-18T00:11:40 IST" duration-ms="1366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:40 IST" name="tearDown" finished-at="2025-12-18T00:11:40 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:40 IST" name="setup" finished-at="2025-12-18T00:11:42 IST" duration-ms="2459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidEmailAddress()[pri:3, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:42 IST" name="loginWithInvalidEmailAddress" finished-at="2025-12-18T00:11:44 IST" duration-ms="1286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidEmailAddress -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:44 IST" name="tearDown" finished-at="2025-12-18T00:11:44 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:44 IST" name="setup" finished-at="2025-12-18T00:11:47 IST" duration-ms="2725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidPassword()[pri:4, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:47 IST" name="loginWithInvalidPassword" finished-at="2025-12-18T00:11:48 IST" duration-ms="1182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:48 IST" name="tearDown" finished-at="2025-12-18T00:11:48 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:48 IST" name="setup" finished-at="2025-12-18T00:11:50 IST" duration-ms="2104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithoutEmailPassword()[pri:5, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:50 IST" name="loginWithoutEmailPassword" finished-at="2025-12-18T00:11:51 IST" duration-ms="854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithoutEmailPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Login@3eb738bb]" started-at="2025-12-18T00:11:51 IST" name="tearDown" finished-at="2025-12-18T00:11:51 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Login -->
+      <class name="tests.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:12 IST" name="setup" finished-at="2025-12-18T00:12:13 IST" duration-ms="1646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="serachWithExistingProductName()[pri:1, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:13 IST" name="serachWithExistingProductName" finished-at="2025-12-18T00:12:14 IST" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachWithExistingProductName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:14 IST" name="tearDown" finished-at="2025-12-18T00:12:14 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:14 IST" name="setup" finished-at="2025-12-18T00:12:16 IST" duration-ms="1891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithNonExistingProductName()[pri:2, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:16 IST" name="searchWithNonExistingProductName" finished-at="2025-12-18T00:12:17 IST" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithNonExistingProductName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:17 IST" name="tearDown" finished-at="2025-12-18T00:12:17 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:17 IST" name="setup" finished-at="2025-12-18T00:12:19 IST" duration-ms="2312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchWithBlankSearchField()[pri:3, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:19 IST" name="searchWithBlankSearchField" finished-at="2025-12-18T00:12:20 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithBlankSearchField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Search@1e800aaa]" started-at="2025-12-18T00:12:20 IST" name="tearDown" finished-at="2025-12-18T00:12:20 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Search -->
+      <class name="tests.Logout">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Logout@5e0e82ae]" started-at="2025-12-18T00:11:21 IST" name="setup" finished-at="2025-12-18T00:11:25 IST" duration-ms="3332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogoutfromdropDown()[pri:1, instance:tests.Logout@5e0e82ae]" started-at="2025-12-18T00:11:25 IST" name="verifyLogoutfromdropDown" finished-at="2025-12-18T00:11:27 IST" duration-ms="2057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutfromdropDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Logout@5e0e82ae]" started-at="2025-12-18T00:11:27 IST" name="tearDown" finished-at="2025-12-18T00:11:27 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Logout@5e0e82ae]" started-at="2025-12-18T00:11:27 IST" name="setup" finished-at="2025-12-18T00:11:30 IST" duration-ms="2667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogoutfromMenu()[pri:2, instance:tests.Logout@5e0e82ae]" started-at="2025-12-18T00:11:30 IST" name="verifyLogoutfromMenu" finished-at="2025-12-18T00:11:32 IST" duration-ms="1967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutfromMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Logout@5e0e82ae]" started-at="2025-12-18T00:11:32 IST" name="tearDown" finished-at="2025-12-18T00:11:32 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Logout -->
+      <class name="tests.Register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:20 IST" name="setup" finished-at="2025-12-18T00:12:22 IST" duration-ms="2485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegistrationFunctionalityWithOnlyMandatoryFields()[pri:1, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:22 IST" name="verifyRegistrationFunctionalityWithOnlyMandatoryFields" finished-at="2025-12-18T00:12:25 IST" duration-ms="2549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistrationFunctionalityWithOnlyMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:25 IST" name="tearDown" finished-at="2025-12-18T00:12:25 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:25 IST" name="setup" finished-at="2025-12-18T00:12:28 IST" duration-ms="2599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="averifyRegistrationFunctionalityWithAllFunctionality()[pri:2, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:28 IST" name="averifyRegistrationFunctionalityWithAllFunctionality" finished-at="2025-12-18T00:12:30 IST" duration-ms="2466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- averifyRegistrationFunctionalityWithAllFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:30 IST" name="tearDown" finished-at="2025-12-18T00:12:30 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:30 IST" name="setup" finished-at="2025-12-18T00:12:32 IST" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="averifyRegistrationFunctionalityWithNoNewsletter()[pri:3, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:32 IST" name="averifyRegistrationFunctionalityWithNoNewsletter" finished-at="2025-12-18T00:12:35 IST" duration-ms="2340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- averifyRegistrationFunctionalityWithNoNewsletter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Register@185a6e9]" started-at="2025-12-18T00:12:35 IST" name="tearDown" finished-at="2025-12-18T00:12:35 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Register -->
+    </test> <!-- Test -->
+  </suite> <!-- DataDrivenSuite -->
+</testng-results>
